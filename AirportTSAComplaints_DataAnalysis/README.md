@@ -3,11 +3,9 @@
 03/24 - 04/24    
 
 #### Project Team Members
-Sooneui Kim
-
-Carrie Li
-
-Emily Lopez
+- Sooneui Kim
+- Carrie Li
+- Emily Lopez
                                                                                                                                                                                                                               
 
 Answered our research questions regarding TSA complaints and airport data trends by collaboratively transforming, analyzing and visualizing our data in EDA; collectively made a proposal, report, code documentation and presentation
