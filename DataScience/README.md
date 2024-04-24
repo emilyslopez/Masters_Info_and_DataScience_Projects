@@ -1,8 +1,6 @@
 # DATASCI W200 - Data Science Programming 
 
-## UC Berkeley, School of Information
-
-## Master of Information and Data Science (MIDS)
+## UC Berkeley, School of Information - Master of Information and Data Science (MIDS)
 
 January 2024 - April 2024
 
